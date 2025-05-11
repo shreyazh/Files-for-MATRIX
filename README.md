@@ -12,7 +12,7 @@ Sri AI is an innovative platform that uses advanced AI agents and language model
 
 ## 💡 **Core Features**
 
-1. **💬 Chat with HARI AI:** Your round-the-clock health companion.
+1. **💬 Chat with CHAT AI:** Your round-the-clock health companion.
 2. **📝 Report Analyzer Pro:** Instant medical report insights and recommendations.
 3. **🚑 Emergency Care Connect:** Real-time emergency assistance when you need it most.
 4. **🎯 Health Predictor Plus:** Data-driven health forecasting with actionable advice.
@@ -21,10 +21,10 @@ Sri AI is an innovative platform that uses advanced AI agents and language model
 
 ## 🔍 **Features in Detail**
 
-### 💬 **Chat with HARI AI**
+### 💬 **Chat with CHAT AI**
 Interact with our **AI Health Guru** for real-time, evidence-based health advice.
 
-- **How It Works:** Ask health-related questions, and the chatbot uses Retrieval-Augmented Generation (RAG) to fetch reliable information. With multi-agent support, HARI AI ensures precise and helpful responses.
+- **How It Works:** Ask health-related questions, and the chatbot uses Retrieval-Augmented Generation (RAG) to fetch reliable information. With multi-agent support, CHAT AI ensures precise and helpful responses.
 - **Agents Involved:**
   - **Chat Assistant:** Generates conversational responses.
   - **Document Processor:** Fetches insights from medical files.
