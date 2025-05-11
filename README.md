@@ -1,18 +1,18 @@
-# 🌟 **The CareAI: Your Future-Ready Healthcare Companion** 🚀
+# 🌟 **The SriAI: Your Future-Ready Healthcare Companion** 🚀
 
-Welcome to **The Care AI** – where cutting-edge technology meets healthcare to provide a smart, user-friendly, and interactive health management experience. From disease prediction to emergency support, we've got your health covered!
+Welcome to **The Sri AI** – where cutting-edge technology meets healthcare to provide a smart, user-friendly, and interactive health management experience. From disease prediction to emergency support, we've got your health covered!
 
 ---
 
 ## 🎯 **Project Overview**
 
-Care AI is an innovative platform that uses advanced AI agents and language models to deliver a proactive healthcare experience. With features like medical report analysis, real-time chat assistance, emergency aid, and health predictions, Care AI simplifies complex medical processes into actionable insights.
+Sri AI is an innovative platform that uses advanced AI agents and language models to deliver a proactive healthcare experience. With features like medical report analysis, real-time chat assistance, emergency aid, and health predictions, Care AI simplifies complex medical processes into actionable insights.
 
 ---
 
 ## 💡 **Core Features**
 
-1. **💬 Chat with Care AI:** Your round-the-clock health companion.
+1. **💬 Chat with HARI AI:** Your round-the-clock health companion.
 2. **📝 Report Analyzer Pro:** Instant medical report insights and recommendations.
 3. **🚑 Emergency Care Connect:** Real-time emergency assistance when you need it most.
 4. **🎯 Health Predictor Plus:** Data-driven health forecasting with actionable advice.
@@ -21,10 +21,10 @@ Care AI is an innovative platform that uses advanced AI agents and language mode
 
 ## 🔍 **Features in Detail**
 
-### 💬 **Chat with Care AI**
+### 💬 **Chat with HARI AI**
 Interact with our **AI Health Guru** for real-time, evidence-based health advice.
 
-- **How It Works:** Ask health-related questions, and the chatbot uses Retrieval-Augmented Generation (RAG) to fetch reliable information. With multi-agent support, Care AI ensures precise and helpful responses.
+- **How It Works:** Ask health-related questions, and the chatbot uses Retrieval-Augmented Generation (RAG) to fetch reliable information. With multi-agent support, HARI AI ensures precise and helpful responses.
 - **Agents Involved:**
   - **Chat Assistant:** Generates conversational responses.
   - **Document Processor:** Fetches insights from medical files.
@@ -68,13 +68,6 @@ Predict potential health risks and monitor key metrics like glucose levels, bloo
 - **Database:** FAISS for document storage and retrieval.
 - **APIs and Tools:** Google Generative AI for embeddings, Geolocation APIs for emergency services.
 - **Visualization:** Plotly for user-friendly health insights.
-
----
-
-## 🌐 **See It in Action**
-
-- **Website:** [CareAI](https://careai28.netlify.app)
-- **GitHub:** [Project Repository](https://lnkd.in/g_Y7FGYd)
 
 ---
 
